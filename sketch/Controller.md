@@ -1,9 +1,9 @@
 # Controller
 
 The controller for Gecko is a very simple controller for Bluetooth Low Energy 
-(BLE) and the L9110S controller 4 motors with 2 left and 2 right. It enables 
-you to control the speed and direction of the left and right motors
-independently with enough fidelity for smooth accerleration and deceleration. 
+(BLE) and the L9110S controller. It is set up to command 4 motors with 2 left 
+and 2 right. It enables control of the speed and direction with enough fidelity
+for smooth acceleration and deceleration. 
 
 There were several requirements that went into controller design.
 
