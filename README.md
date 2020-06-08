@@ -19,6 +19,10 @@ when with working with them.
 
 In this repository you will find the STL files and Gecko on-board Arduino sketch.
 
+## Controller
+The [controller sketch](sketch/Controller.md) is a relatively simple motor command
+controller that reads input from the HM-10 module on serial input.
+
 ## Components
 The total cost for the components as built is around $107USD. Gecko can be
 built for a lower cost by excluding the PowerBoost 1000 ($24USD) or substituting it with the 
